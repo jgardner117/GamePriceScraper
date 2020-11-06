@@ -46,10 +46,8 @@ There are two options the user is given when starting this app. If you pass a nu
 
 The app will iterate through every game in the Sheet, and move the value from cell F to cell G, and update cell F to the new price. If a game does not have a URL, the URL could not be reached, or the game has an inappropriate condition, the scraper will move on to the next item in the sheet.
 
-## Authors
+## Author
 
-* **Jesse Gardner** - *Developer* - [HatePH34R](https://github.com/HatePH34R)
-
-See also the list of [contributors](https://github.com/hateph34r/GamePriceScraper/contributors) who participated in this project.
+* **Jesse Gardner** - *Developer* - [jgardner117](https://github.com/jgardner117)
 
 
