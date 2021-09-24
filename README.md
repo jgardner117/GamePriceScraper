@@ -2,12 +2,12 @@
 This is a Python App I created to update the prices of my video game inventory Google Sheet in order to track the average value of my collection over time. This was a tedious process that was ripe for automation made possible by Python, BeautifulSoup and gSpread.
 
 ### Prerequisites
-This app requires the following prequisites:
-  Python 3.4
-  BeautifulSoup 4
-  gSpread 0.6.2
-  Google API key
-  Google Drive/Sheets Account
+This app requires the following:
+- Python 3.4
+- BeautifulSoup 4
+- gSpread 0.6.2
+- Google API key
+ Google Drive/Sheets Account
   
 ## Installing
 
